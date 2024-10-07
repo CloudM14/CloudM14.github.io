@@ -1,0 +1,33 @@
+disabled = false   #Indicates that this language configuration is active.
+languageCode = "en"    #Specifies the language code, in this case, English.
+languageName = "English"    #The human-readable name of the language.
+weight = 1 #Determines the order in which this language appears in a list of languages.
+title = "NAC Attack" #Sets the title for this language version of the site.
+
+[params] #This section contains various parameters specific to the site.
+  displayName = "EN"  #How the language will be displayed, e.g., in a language switcher.
+  isoCode = "en"   # The ISO code for the language.
+  rtl = false    #Specifies whether the language is right-to-left (false for English).
+  dateFormat = "2 January 2006"    #The format in which dates will be displayed.
+  #logo = "icons/lock.svg"   #Path to the site logo.
+  # secondaryLogo = "icons/xing.svg"   #A commented-out option for a secondary logo.
+   description = "Code is Power"   # A description of the site
+  # copyright = "Copy, _right?_ :thinking_face:"   #A commented-out copyright message.
+
+ [params.author]  # Contains information about the site author.
+   name = "Noah Adam Cox"   # The author’s name.
+   email = "ncox45143@gmail.com"  # The author’s email address.
+   image = "/img/noahcox.png"   # Path to the author's image.
+   imageQuality = 96  # Quality of the author's image.
+   headline = "Pursuing the Future: Aspiring Computer Scientist & Robotics."  # A headline or tagline for the author.
+   # bio = "waaaaaaaaaaa"  # A short bio of the author.
+   links = [  # A list of social and contact links.
+     { email = "mailto:ncox45143@gmail.com" },
+     { github = "https://github.com/Coxie14" },
+     { instagram = "https://instagram.com/_coxiie_" },
+     { linkedin = "https://linkedin.com/in/noah-cox-321163187" },
+     { snapchat = "https://snapchat.com/add/coxie014" },
+   ]
+
+#languages.toml: If your site supports multiple languages, this file can be used to define language-specific settings. 
+# It includes language codes, names, and various language-specific parameters.

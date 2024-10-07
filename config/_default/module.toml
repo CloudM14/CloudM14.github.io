@@ -1,0 +1,3 @@
+[hugoVersion] # This section is dedicated to setting parameters related to the version of Hugo you're using.
+  extended = false # Indicates whether the extended version of Hugo is required. The extended version includes additional features for processing SCSS/SASS, but since it's set to false, it's not necessary for your site.
+  min = "0.87.0" #Specifies the minimum version of Hugo required for your site to function properly. This ensures that if someone tries to build your site with an older version of Hugo, they'll be informed that an update is needed.

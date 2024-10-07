@@ -1,0 +1,70 @@
+# -- Site Configuration --
+# Refer to the theme docs for more details about each of these parameters.
+# https://blowfish.page/docs/getting-started/
+
+theme = "blowfish" # Specifies the theme you're using. Uncomment this line to activate the Blowfish theme.
+baseURL = "https://localhost:1313" #The base URL for your site.
+defaultContentLanguage = "en" #Default language for the site.
+
+# pluralizeListTitles = "true" # hugo function useful for non-english languages, find out more in  https://gohugo.io/getting-started/configuration/#pluralizelisttitles
+
+enableRobotsTXT = true #Generates a robots.txt file.
+pagination.pagerSize = 10 #Sets the number of items per page.
+summaryLength = 0 #Length of summaries.
+
+buildDrafts = false #Controls whether drafts and future posts are built.
+buildFuture = false
+
+enableEmoji = true # Enables emoji support.
+
+# googleAnalytics = "G-XXXXXXXXX" #Placeholder for Google Analytics ID (commented out).
+
+[imaging]
+  anchor = 'Center' #Sets the anchor point for image processing.
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+  author = "authors"
+  series = "series"
+
+[sitemap]
+  changefreq = 'always' # How often the content is likely to change.
+  filename = 'sitemap.xml'
+  priority = 0.5
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"] #Output formats for the homepage.
+
+[related]
+  threshold = 0 #Similarity threshold.
+  toLower = false
+
+  [[related.indices]] #Configuration for related content indices.
+      name = "tags"
+      weight = 100
+
+  [[related.indices]]
+      name = "categories"
+      weight = 100
+
+  [[related.indices]]
+      name = "series"
+      weight = 50
+
+  [[related.indices]]
+      name = "authors"
+      weight = 20
+
+  [[related.indices]]
+      name = "date"
+      weight = 10
+
+  [[related.indices]]
+      applyFilter = false
+      name = 'fragmentrefs'
+      type = 'fragments'
+      weight = 10
+
+#config.toml: This is often the main configuration file for your site. 
+#It includes global settings like base URL, theme, language, and other general site configurations.
