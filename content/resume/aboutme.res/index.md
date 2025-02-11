@@ -1,6 +1,6 @@
 +++
-title = "Updated Resume for Fall 2024"
-summary = "About Me"
+title = "Through Fall 2024"
+summary = "Resume"
 +++
 
 [Resume](./res.pdf)
