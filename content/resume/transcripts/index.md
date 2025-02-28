@@ -1,6 +1,6 @@
 +++
-title = "Completed To Summer 2024"
-summary = "Transcripts"
+title = "Transcripts"
+summary = "Summer 2024"
 +++
 
 [Resume](./tran.pdf)

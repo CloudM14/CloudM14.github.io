@@ -1,6 +1,6 @@
 +++
-title = "Through Fall 2024"
-summary = "Resume"
+title = "Resume"
+summary = ""
 +++
 
 [Resume](./res.pdf)
