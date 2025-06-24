@@ -17,4 +17,4 @@ To anyone out there who feels like they’ve lost their way—trust the process.
 
 Thank you to everyone who’s supported me so far. Here’s to USC, to growth, and to the universe that awaits.
 
-— Noah Cox
+-- Noah Cox
