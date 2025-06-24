@@ -17,7 +17,7 @@ weight = 10          # Determines the order of the menu item. Lower weight means
 
 [[main]]
 name = "About Me"
-pageRef = "resume"
+pageRef = "aboutme"
 weight = 15
 
  [[main]]

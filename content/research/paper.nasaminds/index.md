@@ -3,6 +3,6 @@ title = "BHCC - NASA Minds 2025"
 summary = "Origami -> Solar Panel"
 +++
 
-[BHCC - NASA Minds 2025](./nasaminds.paper.pdf)
+[Technical Paper](./nasaminds.paper.pdf)
 
-[BHCC - NASA Minds 2025](./poster.paper.pdf)
+[Poster Presentation](./poster.paper.pdf)
