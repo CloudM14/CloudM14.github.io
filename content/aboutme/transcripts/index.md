@@ -7,4 +7,4 @@ My academic transcript provides a verified record of my coursework, grades, and 
 
 [High School: Rabun Gap Nacoochee School Transcript (Final Unofficial)](./RGFTran.pdf)
 
-[Community College: Bunker Hill Transcript (Final Unofficial)](./BHCCFtran.pdf)
+[Community College: Bunker Hill Transcript (Final Unofficial)](./BHCCFTran.pdf)
