@@ -15,6 +15,10 @@ Today, I feel closer than ever to achieving my dream of contributing to space ex
 
 To anyone out there who feels like they’ve lost their way—trust the process. Keep moving, keep learning, and don’t be afraid to pivot. You might just find yourself closer to the stars than you ever imagined.
 
-Thank you to everyone who’s supported me so far. Here’s to USC, to growth, and to the universe that awaits.
+Thank you to everyone who’s supported me so far. Here’s to BHCC, USC, and growth.
 
--- Noah Cox
+Fight ON!
+
+**Special Thanks To:**
+
+Bunker Hill Community College for giving me the oppurtunity to Imagine the Possibilities in my life and take the steps forward as a Leader.
