@@ -1,6 +1,6 @@
 +++
 title = "Awards & Honors"
-summary = "Fall 2025"
+summary = "June 2020 - Fall 2025"
 +++
 
 {{< lead >}}

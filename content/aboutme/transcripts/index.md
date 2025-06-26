@@ -1,8 +1,10 @@
 +++
 title = "Transcripts"
-summary = "Final Unofficial (Spring 2023 - Spring 2025)"
+summary = "Bunker Hill (CC) & Rabun Gap (HS)"
 +++
 
 My academic transcript provides a verified record of my coursework, grades, and academic achievements. It reflects my dedication to excellence across a range of subjects—from advanced computer science and engineering to honors-level research and leadership in STEM initiatives.
 
-[BHCC Transcript (Final Unofficial)](./tran.pdf)
+[High School: Rabun Gap Nacoochee School Transcript (Final Unofficial)](./RGFTran.pdf)
+
+[Community College: Bunker Hill Transcript (Final Unofficial)](./BHCCFtran.pdf)
