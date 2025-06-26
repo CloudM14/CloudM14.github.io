@@ -9,7 +9,7 @@ summary = "The Next Chapter"
 
 Graduating with highest honors from Bunker Hill Community College has been one of the most surreal and rewarding moments of my life. As I walked across that stage, I wasn't just accepting a diploma—I was carrying the weight of every late night, every challenge, and every moment of doubt I fought through to get here.
 
-Now, I’m incredibly proud (and honestly still a little in disbelief) to share that I’ve been blessed with the opportunity to continue my bachelor’s degree at the University of Southern California. USC has always been a dream for me—not just for its reputation, but for the doors it opens, especially in fields like astrophysics.
+Now, I’m incredibly proud (and honestly still a little in disbelief) to share that I’ve been blessed with the opportunity to continue my bachelor’s degree at the University of Southern California. USC has always been a dream for me—not just for its reputation, but for the doors it opens, especially in fields like astrophysics. So getting a major in Physics and Computer Science was ideal news for me and my future!
 
 It’s hard not to reflect on how far I’ve come. A few years ago, I was on a completely different path. After a football injury, I found myself in nursing school, unsure of where I was headed. I had lost my original passion and was simply trying to figure out my next step. But sometimes, detours are just disguised redirections. That difficult period of my life pushed me to rediscover my curiosity for the universe, for science, and eventually for astrophysics.
 
