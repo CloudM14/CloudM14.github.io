@@ -3,9 +3,9 @@ title = "10/03/24"
 summary = "Introduction"
 +++
 
-## Welcome to my blog!
+## From Caregiver to Coder: Finding My Path at Bunker Hill
 
-**From Caregiver to Coder: Finding My Path at Bunker Hill**
+**Entry 1**
 
 Starting over is never easy—especially when you’re not sure where the path will lead.
 

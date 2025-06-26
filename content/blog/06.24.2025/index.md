@@ -4,6 +4,8 @@ summary = "The Next Chapter"
 +++
 
 ## From Setback to Stardust: My Journey to USC and Beyond
+ 
+ **Entry 2**
 
 Graduating with highest honors from Bunker Hill Community College has been one of the most surreal and rewarding moments of my life. As I walked across that stage, I wasn't just accepting a diploma—I was carrying the weight of every late night, every challenge, and every moment of doubt I fought through to get here.
 
