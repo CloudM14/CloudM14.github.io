@@ -6,5 +6,5 @@ showDate = false
 +++
 
 {{< lead >}}
-Hey there! I'm a recent Bunker Hill CC Graduate (Associates in Science: Computer Science w/Highest Honors). Thats Transfering to The University of Southern California for Physics and Computer Science with the goal of becoming an AstroPhycists.  
+初めまして! I'm a current University of Southern California student majoring in Physics & Computer Science. I'm also a USC Rocket Propulsion Lab Member and hope to keep my Blog updated with project progress.
 {{< /lead >}}
