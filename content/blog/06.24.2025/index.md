@@ -1,9 +1,9 @@
 +++
-title = "06/24/25"
+title = "Physical Materials"
 summary = "The Next Chapter"
 +++
 
-## From Setback to Stardust: My Journey to USC and Beyond
+## 06/24/25
  
  **Entry 2**
 

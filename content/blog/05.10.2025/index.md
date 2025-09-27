@@ -1,9 +1,9 @@
 +++
-title = "10/03/24"
+title = "From Caregiver to Coder: Finding My Path at Bunker Hill"
 summary = "Introduction"
 +++
 
-## From Caregiver to Coder: Finding My Path at Bunker Hill
+## 10/03/24
 
 **Entry 1**
 
